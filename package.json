@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@harmony-js/core": "^0.1.57",
+    "@harmony-js/utils": "^0.1.56",
+    "dotenv": "^8.2.0",
+    "install": "^0.13.0",
+    "npm": "^7.11.1",
+    "tslib": "^2.2.0"
+  }
+}
